@@ -1,4 +1,4 @@
-## Hola, mi nombre es ingrid✨
+## Hola, mi nombre es Ingrid✨
 
 🎓 Estudiante de ingeniería de datos<br/>
 🔧 Interesada en aprender y desarrollar soluciones con datos<br/> 
